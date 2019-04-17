@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import requests
+
 import tensorflow as tf
 import numpy as np
 import unicodedata
@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import os
 import imageio
 from zipfile import ZipFile
-
+import requests
 
 # Mode can be either 'train' or 'infer'
 # Set to 'infer' will skip the training
