@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+import requests
 import tensorflow as tf
 import numpy as np
 import unicodedata
