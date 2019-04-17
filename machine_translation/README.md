@@ -12,3 +12,4 @@ You can follow links below for more details on implementation:
 - Sequence to Sequence Learning with Neural Networks paper: [link](https://arxiv.org/abs/1409.3215)
 - Effective Approaches to Attention-based Neural Machine Translation paper: [link](https://arxiv.org/abs/1508.04025)
 - Pytorch's Seq2Seq Tutorial: [link](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+- This repo is forked: [link](https://github.com/ChunML/NLP)
